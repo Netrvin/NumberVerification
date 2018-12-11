@@ -4,7 +4,7 @@
 ## API
 
 ### 新建验证  
-`https://msg.xianyu.it/api/sms/receive_sms_create.php`  
+`https://api.xianyu.it/v1/sms_receive/create`  
 #### 请求
 方式：`GET`  
 
@@ -24,7 +24,7 @@
 | token | 用于查询验证状态 |
 
 ### 查询验证
-`https://msg.xianyu.it/api/sms/receive_sms_verify.php`
+`https://api.xianyu.it/v1/sms_receive/verify`
 方式：`GET`  
 
 |  Key   | 描述                                                  |
