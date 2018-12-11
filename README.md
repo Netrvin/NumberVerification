@@ -24,7 +24,8 @@
 | token | 用于查询验证状态 |
 
 ### 查询验证
-`https://api.xianyu.it/v1/sms_receive/verify`
+`https://api.xianyu.it/v1/sms_receive/verify`  
+#### 请求  
 方式：`GET`  
 
 |  Key   | 描述                                                  |
